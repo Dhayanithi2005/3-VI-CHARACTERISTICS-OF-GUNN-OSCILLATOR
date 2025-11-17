@@ -55,8 +55,8 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 **B.Observation:**
 
+![antenna3b](https://github.com/user-attachments/assets/796394f5-9435-45e2-aa8d-b448b32b7905)
 
-![anteena 3(b)](https://g![antenna3b](https://github.com/user-attachments/assets/ded8fa9e-782d-470e-a8da-40c611a641cb)
 ![antenna 3(A)](https://github.com/user-attachments/assets/5f9949dc-3b86-4538-bb7a-aad2737c1cad)
 
 
